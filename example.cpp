@@ -10,17 +10,17 @@ main()
     t.add( "Age" );
     t.endOfRow();
 
-    t.add( "Moses" );
+    t.add( "Moses" ,green);
     t.add( "male" );
     t.add( "4556" );
     t.endOfRow();
 
-    t.add( "Jesus" );
+    t.add( "Jesus", red );
     t.add( "male" );
     t.add( "2016" );
     t.endOfRow();
 
-    t.add( "Debora" );
+    t.add( "Debora" , blue);
     t.add( "female" );
     t.add( "3001" );
     t.endOfRow();
